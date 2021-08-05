@@ -1,2 +1,2 @@
 # Analytics
-Analytics projects undertaken
+Analytics capstone projects completed
