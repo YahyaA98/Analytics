@@ -1,2 +1,2 @@
 # Analytics
-Analytics capstone projects completed
+Directory of some Analytics capstone projects completed.
